@@ -55,10 +55,10 @@ I'm proficient in the following technologies:
 #### Frameworks & Libraries:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=django,drf,flask,bs4,selenium" /><br>
 </p>
 <p align="center">
-  <strong>Django • Flask • Django REST Framework • Web Scraping • Web Socket (Python Channels)</strong>
+  <strong>Django • Django REST Framework (DRF) • Flask • Beautiful Soup • Web Scraping • Web Socket (Python Channels)</strong>
 </p>
 
 #### Artificial Intelligence & Data Science:
@@ -67,7 +67,7 @@ I'm proficient in the following technologies:
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" /><br>
 </p>
 <p align="center">
-  <strong>Machine Learning • Deep Learning (Neural Networks) • Natural Language Processing (NLP)</strong>
+  <strong>Machine Learning • Deep Learning (Neural Networks) • Natural Language Processing (NLP) • PyTorch • TensorFlow • Scikit-learn</strong>
 </p>
 
 #### Databases:
@@ -93,8 +93,6 @@ I'm proficient in the following technologies:
 * **RESTful API Design & Development**
 * **JWT Token for Authentication**
 * **Algorithm Design & Problem Solving (C++)**
-
----
 
 ### 🚀 Featured Projects:
 
