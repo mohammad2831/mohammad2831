@@ -31,13 +31,10 @@ Actively applying these concepts to various projects, aiming to build intelligen
 Continuously honing my backend programming skills with Python, the Django framework, and Django REST Framework.
 Developing robust and scalable web backend solutions that offer advanced functionalities and high performance.
 
-### Working with Tools like Nginx , Docker and etc:
+### Working with Tools like Nginx , Docker and ...:
 Enhancing my proficiency in deploying, managing, and scaling applications using tools like Nginx and Docker.
 Focusing on optimizing performance and ensuring system reliability in production environments.
 
-- 🔭 I’m currently working on **freelance projects** and learning more about **Django** and **Artificial Intelligence** .
-- [cite_start]🌱 I’m currently enrolled in the **CS50P (Python)** course from Harvard University.
-- 👯 I’m looking to collaborate on projects involving **Python, Django, and related backend technologies**.
 
 
 ---
@@ -102,67 +99,52 @@ I'm proficient in the following technologies:
 </table>
 
 **Other Skills:**
-- [cite_start]REST framework 
-- [cite_start]Web scraping 
-- [cite_start]Web socket (Python Channels) 
-- [cite_start]JWT token for authentication 
+REST framework 
+Web scraping 
+Web socket (Python Channels) 
+
 
 ---
 
 ### 🚀 Featured Projects:
 
 **1. Sigma - Math Learning and Problem-Solving Platform**
-- [cite_start]**Role:** Backend Developer 
-- [cite_start]**Tech Stack:** Django REST (Backend) [cite: 41][cite_start], Flutter & Next.js (Client) 
-- [cite_start]**Description:** Designed and implemented the backend of a math education platform called Sigma, aimed at helping users learn and solve math problems through gamification techniques. [cite_start]Collaborated with a team of frontend developers who developed the client side using Flutter (mobile) and Next.js (web). [cite_start]The system supports multi-stage question solving, user progress tracking, and an engaging user experience through interactive learning flows.
-  - [cite_start]**Main Database:** MySQL 
-  - [cite_start]**Secondary DB & Cache:** Redis 
-  - [cite_start]**Web Server:** Nginx 
-  - [cite_start]**Link:** [www.sigma-edu.ir](http://www.sigma-edu.ir) 
+**Role:** Backend Developer 
+**Tech Stack:** Django REST (Backend), Flutter & Next.js (Client) 
+**Description:** Designed and implemented the backend of a math education platform called Sigma, aimed at helping users learn and solve math problems through gamification techniques. Collaborated with a team of frontend developers who developed the client side using Flutter (mobile) and Next.js (web). The system supports multi-stage question solving, user progress tracking, and an engaging user experience through interactive learning flows.
+  **Main Database:** MySQL 
+  **Secondary DB & Cache:** Redis 
+  **Web Server:** Nginx 
+  **Link:** [www.sigma-edu.ir](http://www.sigma-edu.ir) 
 
 **2. E-commerce Project**
-- [cite_start]Developed a comprehensive e-commerce system with the following features:
-  - [cite_start]Complete User Management 
-  - [cite_start]Inventory and Sales Management 
-  - [cite_start]Discount Codes 
-  - [cite_start]Comments 
-  - [cite_start]Payment Gateway 
-  - [cite_start]Email Notifications 
+Developed a comprehensive e-commerce system with the following features:
+  Complete User Management 
+  Inventory and Sales Management 
+  Discount Codes 
+  Comments 
+  Payment Gateway 
+  Email Notifications 
 
 **3. Social Network**
-- [cite_start]A simple social media platform with basic user interaction features:
-  - [cite_start]Post Creation 
-  - [cite_start]Reaction Posting 
-  - [cite_start]Management of Posts and Reactions 
-  - [cite_start]Profile Management 
+A simple social media platform with basic user interaction features:
+  Post Creation 
+  Reaction Posting 
+  Management of Posts and Reactions 
+  Profile Management 
 
 ---
 
 ### 🎓 Education & Courses:
 
-- [cite_start]**Bachelor's degree in Computer Science** from Hakim Sabzevari University [cite: 30] [cite_start](2021 - now )
-- [cite_start]**CS50X (Introduction to Computer Science)** from Harvard University:
-  - [cite_start]Last year, I participated in the CS50X course and, after completing all the diverse exercises, successfully received the course certificate.
-- [cite_start]**CS50P (Python)** from Harvard University:
-  - [cite_start]I am currently enrolled in this course.
+**Bachelor's degree in Computer Science** from Hakim Sabzevari University 
+**CS50X (Introduction to Computer Science)** from Harvard University:
+**CS50P (Python)** from Harvard University
 
 ---
 
-### 💼 Experience:
 
-- [cite_start]**Freelancer - Backend Developer** (September 22, 2024 - present) 
-  - [cite_start]Specializing in the Django stack.
-- [cite_start]**Ferez startup** (March 20, 2024 - September 21, 2024) 
-  - [cite_start]3 months of collaboration as a backend developer.
 
----
-
-### 🏆 Programming Competitions:
-
-- **ICPC Programming Competitions:**
-  - [cite_start]In recent years, I have participated in several programming competitions and gained experience in solving problems and designing various algorithms using C++.
-
----
 
 ### 📊 GitHub Stats:
 
