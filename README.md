@@ -54,9 +54,8 @@ I'm proficient in the following technologies:
 #### <h2 align="center">Frameworks & Libraries:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,drf,flask,bs4,selenium,fastapi" /><br>
-</p>
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,drf,flask,selenium,fastapi" /><br>
+</p><p align="center">
   <strong>Django • Django REST Framework (DRF) • Flask • Beautiful Soup • Web Scraping • Web Socket (Python Channels) • FastAPI</strong>
 </p>
 
@@ -127,7 +126,7 @@ A simple social media platform with basic user interaction features:
 ### 🎓 Education & Courses:
 
 ### **Bachelor's degree in Computer Science** from Hakim Sabzevari University 
-### **CS50X (Introduction to Computer Science)** from Harvard University:
+### **CS50X (Introduction to Computer Science)** from Harvard University
 ### **CS50P (Python)** from Harvard University
 
 ---
