@@ -5,6 +5,15 @@
 <h1 align="center">Hi there, I'm Mohammad Jahantighi 👋</h1>
 <h3 align="center">A Python Backend Developer passionate about building new things.</h3>
 
+**<h3 align="center">How To Reach Me</h3>**
+
+<div align="center">
+  <a href="https://github.com/mohammad2831" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="36"></a>
+  <a href="mailto:mhmd.2831.mahdi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="36"></a>
+  <a href="https://t.me/mhmd2831m" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=badge&logo=telegram&logoColor=white" height="36"></a>
+  <a href="https://www.linkedin.com/in/mohammad-jahantighi-a54961295" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="36"></a>
+</div>
+
 ---
 
 ### 👨‍💻 About Me:
