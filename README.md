@@ -51,7 +51,7 @@ I'm proficient in the following technologies:
   <strong>Python • C++ • HTML • CSS • JavaScript</strong>
 </p>
 
-#### <p align="center">Frameworks & Libraries:</p>
+#### <h2 align="center">Frameworks & Libraries:</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,drf,flask,bs4,selenium,fastapi" /><br>
@@ -60,7 +60,7 @@ I'm proficient in the following technologies:
   <strong>Django • Django REST Framework (DRF) • Flask • Beautiful Soup • Web Scraping • Web Socket (Python Channels) • FastAPI</strong>
 </p>
 
-#### Artificial Intelligence & Data Science:
+#### <h2 align="center">Artificial Intelligence & Data Science:</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,numpy,pandas,matplotlib,seaborn" /><br>
@@ -69,7 +69,7 @@ I'm proficient in the following technologies:
   <strong>Machine Learning • Deep Learning (Neural Networks) • Natural Language Processing (NLP) • PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas • Matplotlib • Seaborn</strong>
 </p>
 
-#### Databases:
+#### <h2 align="center">Databases:<h/2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,redis,postgresql" /><br>
@@ -78,7 +78,7 @@ I'm proficient in the following technologies:
   <strong>MySQL • Redis • PostgreSQL</strong>
 </p>
 
-#### Tools & Platforms:
+#### <h2 align="center">Tools & Platforms:<h/2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vscode" /><br>
