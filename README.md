@@ -43,66 +43,56 @@ Focusing on optimizing performance and ensuring system reliability in production
 
 I'm proficient in the following technologies:
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>
-      <strong>Python</strong> 
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>
-      <strong>Django</strong> 
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br>
-      <strong>Flask</strong> 
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>
-      <strong>Linux</strong> 
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
-      <strong>Docker</strong> 
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br>
-      <strong>Nginx</strong> 
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>
-      <strong>HTML</strong> 
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>
-      <strong>CSS</strong> 
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>
-      <strong>JavaScript</strong> 
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C++" /><br>
-      <strong>C++</strong> 
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>
-      <strong>MySQL</strong> 
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>
-      <strong>Redis</strong> 
-    </td>
-  </tr>
-</table>
+#### Programming Languages:
 
-**Other Skills:**
-REST framework 
-Web scraping 
-Web socket (Python Channels) 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" /><br>
+</p>
+<p align="center">
+  <strong>Python • C++ • HTML • CSS • JavaScript</strong>
+</p>
 
+#### Frameworks & Libraries:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask" /><br>
+</p>
+<p align="center">
+  <strong>Django • Flask • Django REST Framework • Web Scraping • Web Socket (Python Channels)</strong>
+</p>
+
+#### Artificial Intelligence & Data Science:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" /><br>
+</p>
+<p align="center">
+  <strong>Machine Learning • Deep Learning (Neural Networks) • Natural Language Processing (NLP)</strong>
+</p>
+
+#### Databases:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,redis" /><br>
+</p>
+<p align="center">
+  <strong>MySQL • Redis</strong>
+</p>
+
+#### Tools & Platforms:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx" /><br>
+</p>
+<p align="center">
+  <strong>Linux • Docker • Nginx</strong>
+</p>
+
+#### Other Key Skills:
+
+* **RESTful API Design & Development**
+* **JWT Token for Authentication**
+* **Algorithm Design & Problem Solving (C++)**
 
 ---
 
