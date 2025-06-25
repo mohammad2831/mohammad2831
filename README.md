@@ -38,7 +38,6 @@ Focusing on optimizing performance and ensuring system reliability in production
 
 
 ---
-
 ### 🛠️ Skills & Tools:
 
 I'm proficient in the following technologies:
@@ -52,40 +51,40 @@ I'm proficient in the following technologies:
   <strong>Python • C++ • HTML • CSS • JavaScript</strong>
 </p>
 
-#### Frameworks & Libraries:
+#### Frameworks & Libraries (Backend & Web Scraping):
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,drf,flask,bs4,selenium" /><br>
+  <img src="https://skillicons.dev/icons?i=django,drf,flask,bs4,selenium,fastapi" /><br>
 </p>
 <p align="center">
-  <strong>Django • Django REST Framework (DRF) • Flask • Beautiful Soup • Web Scraping • Web Socket (Python Channels)</strong>
+  <strong>Django • Django REST Framework (DRF) • Flask • Beautiful Soup • Web Scraping • Web Socket (Python Channels) • FastAPI</strong>
 </p>
 
 #### Artificial Intelligence & Data Science:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,numpy,pandas,matplotlib,seaborn" /><br>
 </p>
 <p align="center">
-  <strong>Machine Learning • Deep Learning (Neural Networks) • Natural Language Processing (NLP) • PyTorch • TensorFlow • Scikit-learn</strong>
+  <strong>Machine Learning • Deep Learning (Neural Networks) • Natural Language Processing (NLP) • PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas • Matplotlib • Seaborn</strong>
 </p>
 
 #### Databases:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,redis" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,postgresql" /><br>
 </p>
 <p align="center">
-  <strong>MySQL • Redis</strong>
+  <strong>MySQL • Redis • PostgreSQL</strong>
 </p>
 
 #### Tools & Platforms:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vscode" /><br>
 </p>
 <p align="center">
-  <strong>Linux • Docker • Nginx</strong>
+  <strong>Linux • Docker • Nginx • Git • GitHub • VS Code</strong>
 </p>
 
 #### Other Key Skills:
@@ -93,6 +92,8 @@ I'm proficient in the following technologies:
 * **RESTful API Design & Development**
 * **JWT Token for Authentication**
 * **Algorithm Design & Problem Solving (C++)**
+* **Object-Oriented Programming (OOP)**
+* **Version Control**
 
 ### 🚀 Featured Projects:
 
