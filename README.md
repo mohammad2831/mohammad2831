@@ -2,35 +2,35 @@
   <img src="https://media.giphy.com/media/M9gbBkN8XGg8T2JnG4/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">سلام، من محمد جهانتیغی هستم 👋</h1>
-<h3 align="center">یک توسعه‌دهنده بک‌اند پایتون که عاشق ساختن چیزهای جدیده.</h3>
+<h1 align="center">Hi there, I'm Mohammad Jahantighi 👋</h1>
+<h3 align="center">A Python Backend Developer passionate about building new things.</h3>
 
 ---
 
-### 👨‍💻 درباره من:
+### 👨‍💻 About Me:
 
-[cite_start]من محمد جهانتیغی، یک دانشجوی ۲۱ ساله سال آخر رشته علوم کامپیوتر در دانشگاه حکیم سبزواری هستم. 
-[cite_start]علاقه‌مند به توسعه بک‌اند با پایتون و فریم‌ورک جنگو هستم و بیش از دو سال تجربه در برنامه‌نویسی بک‌اند دارم. 
-[cite_start]در این مدت، سه ماه به صورت ریموت با استارتاپ فرز همکاری کردم و در حال حاضر به عنوان فریلنسر مشغول به کار هستم. 
-[cite_start]در کنار این همکاری‌ها، پروژه‌های تجربی متعددی را برای گسترش دانش و تقویت مهارت‌هایم پیاده‌سازی کرده‌ام و تجربه‌های متنوعی در توسعه سیستم‌های مبتنی بر جنگو به دست آورده‌ام. 
+[cite_start]I am Mohammad Jahantighi, a 21-year-old final-year Computer Science student at Hakim Sabzevari University.
+[cite_start]I am passionate about backend development using Python and the Django framework, and I have over two years of experience in backend programming.
+[cite_start]During this time, I collaborated remotely for three months with the Ferez startup and am currently working as a freelancer.
+[cite_start]Alongside these collaborations, I have implemented several experimental projects to expand my knowledge and enhance my skills, gaining diverse experience in developing Django-based systems.
 
-- [cite_start]🔭 در حال حاضر مشغول کار روی **پروژه‌های فریلنسری** و یادگیری بیشتر در زمینه **Django** هستم. 
-- [cite_start]🌱 در حال گذراندن دوره **CS50P (پایتون)** از دانشگاه هاروارد هستم. 
-- 👯 به دنبال همکاری در پروژه‌هایی هستم که از **پایتون، جنگو و تکنولوژی‌های مرتبط با بک‌اند** استفاده می‌کنند.
-- [cite_start]💬 می‌توانید از طریق [ایمیل](mailto:mhmd.2831.mahdi@gmail.com) با من در تماس باشید. 
-- [cite_start]📍 موقعیت مکانی: **گلستان - گرگان** 
+- 🔭 I’m currently working on **freelance projects** and learning more about **Django**.
+- [cite_start]🌱 I’m currently enrolled in the **CS50P (Python)** course from Harvard University.
+- 👯 I’m looking to collaborate on projects involving **Python, Django, and related backend technologies**.
+- [cite_start]💬 You can reach me via [Email](mailto:mhmd.2831.mahdi@gmail.com)[cite: 2].
+- [cite_start]📍 Location: **Golestan - Gorgan, Iran** 
 
 ---
 
-### 🛠️ مهارت‌ها و ابزارها:
+### 🛠️ Skills & Tools:
 
-با افتخار به مهارت‌های زیر مسلط هستم:
+I'm proficient in the following technologies:
 
 <table>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>
-      [cite_start]<strong>Python</strong> 
+      <strong>Python</strong> 
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>
@@ -81,74 +81,74 @@
   </tr>
 </table>
 
-**سایر مهارت‌ها:**
-- [cite_start]Rest framework 
+**Other Skills:**
+- [cite_start]REST framework 
 - [cite_start]Web scraping 
 - [cite_start]Web socket (Python Channels) 
 - [cite_start]JWT token for authentication 
 
 ---
 
-### 🚀 پروژه‌های شاخص:
+### 🚀 Featured Projects:
 
-**1. Sigma - پلتفرم آموزش و حل مسئله ریاضی**
-- [cite_start]**نقش:** توسعه‌دهنده بک‌اند 
-- [cite_start]**تکنولوژی‌ها:** Django REST (بک‌اند), Flutter & Next.js (کلاینت) 
-- [cite_start]**توضیحات:** این پلتفرم با هدف کمک به کاربران برای یادگیری و حل مسائل ریاضی از طریق تکنیک‌های گیمیفیکیشن طراحی و پیاده‌سازی شده است.  [cite_start]با تیمی از توسعه‌دهندگان فرانت‌اند که از Flutter و Next.js برای کلاینت استفاده کردند، همکاری کردم.  [cite_start]سیستم از حل چندمرحله‌ای سوالات، ردیابی پیشرفت کاربر و تجربه کاربری جذاب از طریق جریان‌های یادگیری تعاملی پشتیبانی می‌کند. 
-  - [cite_start]**پایگاه داده اصلی:** MySQL 
-  - [cite_start]**پایگاه داده ثانویه و کش:** Redis 
-  - [cite_start]**وب سرور:** Nginx 
-  - [cite_start]**لینک:** [www.sigma-edu.ir](http://www.sigma-edu.ir) 
+**1. Sigma - Math Learning and Problem-Solving Platform**
+- [cite_start]**Role:** Backend Developer 
+- [cite_start]**Tech Stack:** Django REST (Backend) [cite: 41][cite_start], Flutter & Next.js (Client) 
+- [cite_start]**Description:** Designed and implemented the backend of a math education platform called Sigma, aimed at helping users learn and solve math problems through gamification techniques. [cite_start]Collaborated with a team of frontend developers who developed the client side using Flutter (mobile) and Next.js (web). [cite_start]The system supports multi-stage question solving, user progress tracking, and an engaging user experience through interactive learning flows.
+  - [cite_start]**Main Database:** MySQL 
+  - [cite_start]**Secondary DB & Cache:** Redis 
+  - [cite_start]**Web Server:** Nginx 
+  - [cite_start]**Link:** [www.sigma-edu.ir](http://www.sigma-edu.ir) 
 
-**2. پروژه فروشگاه اینترنتی (E-commerce Project)**
-- [cite_start]یک سیستم جامع تجارت الکترونیک با قابلیت‌های زیر توسعه دادم: 
-  - [cite_start]مدیریت کامل کاربران 
-  - [cite_start]مدیریت موجودی و فروش 
-  - [cite_start]کدهای تخفیف 
-  - [cite_start]نظرات 
-  - [cite_start]درگاه پرداخت 
-  - [cite_start]اطلاع‌رسانی از طریق ایمیل 
+**2. E-commerce Project**
+- [cite_start]Developed a comprehensive e-commerce system with the following features:
+  - [cite_start]Complete User Management 
+  - [cite_start]Inventory and Sales Management 
+  - [cite_start]Discount Codes 
+  - [cite_start]Comments 
+  - [cite_start]Payment Gateway 
+  - [cite_start]Email Notifications 
 
-**3. شبکه اجتماعی (Social Network)**
-- [cite_start]یک پلتفرم شبکه اجتماعی ساده با قابلیت‌های تعاملی پایه کاربر: 
-  - [cite_start]ایجاد پست 
-  - [cite_start]واکنش به پست‌ها 
-  - [cite_start]مدیریت پست‌ها و واکنش‌ها 
-  - [cite_start]مدیریت پروفایل 
-
----
-
-### 🎓 تحصیلات و دوره‌ها:
-
-- [cite_start]**کارشناسی علوم کامپیوتر** از دانشگاه حکیم سبزواری (۲۰۲۱ - اکنون) 
-- **CS50X (مقدمه‌ای بر علوم کامپیوتر)** از دانشگاه هاروارد:
-  - [cite_start]در سال گذشته در این دوره شرکت کرده و پس از اتمام تمامی تمرین‌های متنوع، گواهی دوره را با موفقیت دریافت کردم. 
-- **CS50P (پایتون)** از دانشگاه هاروارد:
-  - [cite_start]در حال حاضر در این دوره ثبت نام کرده‌ام. 
+**3. Social Network**
+- [cite_start]A simple social media platform with basic user interaction features:
+  - [cite_start]Post Creation 
+  - [cite_start]Reaction Posting 
+  - [cite_start]Management of Posts and Reactions 
+  - [cite_start]Profile Management 
 
 ---
 
-### 💼 سابقه کاری:
+### 🎓 Education & Courses:
 
-- [cite_start]**فریلنسر - توسعه‌دهنده بک‌اند** (۲۲ سپتامبر ۲۰۲۴ - اکنون) 
-  - متخصص در پشته جنگو.
-- [cite_start]**استارتاپ فرز** (۲۰ مارس ۲۰۲۴ - ۲۱ سپتامبر ۲۰۲۴) 
-  - ۳ ماه همکاری به عنوان توسعه‌دهنده بک‌اند.
-
----
-
-### 🏆 مسابقات برنامه‌نویسی:
-
-- **مسابقات برنامه‌نویسی ICPC:**
-  - [cite_start]در سال‌های اخیر در چندین مسابقه برنامه‌نویسی شرکت کرده‌ام و تجربه در حل مسائل و طراحی الگوریتم‌های مختلف با C++ را کسب کرده‌ام. 
+- [cite_start]**Bachelor's degree in Computer Science** from Hakim Sabzevari University [cite: 30] [cite_start](2021 - now )
+- [cite_start]**CS50X (Introduction to Computer Science)** from Harvard University:
+  - [cite_start]Last year, I participated in the CS50X course and, after completing all the diverse exercises, successfully received the course certificate.
+- [cite_start]**CS50P (Python)** from Harvard University:
+  - [cite_start]I am currently enrolled in this course.
 
 ---
 
-### 📊 آمار گیت‌هاب:
+### 💼 Experience:
+
+- [cite_start]**Freelancer - Backend Developer** (September 22, 2024 - present) 
+  - [cite_start]Specializing in the Django stack.
+- [cite_start]**Ferez startup** (March 20, 2024 - September 21, 2024) 
+  - [cite_start]3 months of collaboration as a backend developer.
+
+---
+
+### 🏆 Programming Competitions:
+
+- **ICPC Programming Competitions:**
+  - [cite_start]In recent years, I have participated in several programming competitions and gained experience in solving problems and designing various algorithms using C++.
+
+---
+
+### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="محمد جهانتیغی - آمار گیت‌هاب" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="محمد جهانتیغی - Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Mohammad Jahantighi - GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Mohammad Jahantighi - Streak" />
 </p>
 
 ---
