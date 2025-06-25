@@ -14,20 +14,31 @@
   <a href="https://www.linkedin.com/in/mohammad-jahantighi-a54961295" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="36"></a>
 </div>
 
+
+**<h3 align="center">My chanel in telegram</h3>**
+
+<div align="center">
+  <a href="https://t.me/softwrteach" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=badge&logo=telegram&logoColor=white" height="36"></a>
+</div>
 ---
 
-### 👨‍💻 About Me:
+### 🔭 What I'm Working On:
+Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP):
+Currently expanding my expertise in the fields of Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP), through both focused learning and hands-on project development.
+Actively applying these concepts to various projects, aiming to build intelligent systems and discover innovative solutions in data science.
 
-[cite_start]I am Mohammad Jahantighi, a 21-year-old final-year Computer Science student at Hakim Sabzevari University.
-[cite_start]I am passionate about backend development using Python and the Django framework, and I have over two years of experience in backend programming.
-[cite_start]During this time, I collaborated remotely for three months with the Ferez startup and am currently working as a freelancer.
-[cite_start]Alongside these collaborations, I have implemented several experimental projects to expand my knowledge and enhance my skills, gaining diverse experience in developing Django-based systems.
+Django, Flask, and DRF Programming:
+Continuously honing my backend programming skills with Python, the Django framework, and Django REST Framework.
+Developing robust and scalable web backend solutions that offer advanced functionalities and high performance.
 
-- 🔭 I’m currently working on **freelance projects** and learning more about **Django**.
+Working with Tools like Nginx , Docker and etc:
+Enhancing my proficiency in deploying, managing, and scaling applications using tools like Nginx and Docker.
+Focusing on optimizing performance and ensuring system reliability in production environments.
+
+- 🔭 I’m currently working on **freelance projects** and learning more about **Django** and **Artificial Intelligence** .
 - [cite_start]🌱 I’m currently enrolled in the **CS50P (Python)** course from Harvard University.
 - 👯 I’m looking to collaborate on projects involving **Python, Django, and related backend technologies**.
-- [cite_start]💬 You can reach me via [Email](mailto:mhmd.2831.mahdi@gmail.com)[cite: 2].
-- [cite_start]📍 Location: **Golestan - Gorgan, Iran** 
+
 
 ---
 
