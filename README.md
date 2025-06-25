@@ -23,15 +23,15 @@
 ---
 
 ### 🔭 What I'm Working On:
-Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP):
+### Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP):
 Currently expanding my expertise in the fields of Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP), through both focused learning and hands-on project development.
 Actively applying these concepts to various projects, aiming to build intelligent systems and discover innovative solutions in data science.
 
-Django, Flask, and DRF Programming:
+### Django, Flask, and DRF Programming:
 Continuously honing my backend programming skills with Python, the Django framework, and Django REST Framework.
 Developing robust and scalable web backend solutions that offer advanced functionalities and high performance.
 
-Working with Tools like Nginx , Docker and etc:
+### Working with Tools like Nginx , Docker and etc:
 Enhancing my proficiency in deploying, managing, and scaling applications using tools like Nginx and Docker.
 Focusing on optimizing performance and ensuring system reliability in production environments.
 
