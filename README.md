@@ -51,7 +51,7 @@ I'm proficient in the following technologies:
   <strong>Python • C++ • HTML • CSS • JavaScript</strong>
 </p>
 
-#### Frameworks & Libraries (Backend & Web Scraping):
+#### <p align="center">Frameworks & Libraries:</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,drf,flask,bs4,selenium,fastapi" /><br>
@@ -126,9 +126,9 @@ A simple social media platform with basic user interaction features:
 
 ### 🎓 Education & Courses:
 
-**Bachelor's degree in Computer Science** from Hakim Sabzevari University 
-**CS50X (Introduction to Computer Science)** from Harvard University:
-**CS50P (Python)** from Harvard University
+### **Bachelor's degree in Computer Science** from Hakim Sabzevari University 
+### **CS50X (Introduction to Computer Science)** from Harvard University:
+### **CS50P (Python)** from Harvard University
 
 ---
 
