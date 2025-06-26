@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBkN8XGg8T2JnG4/giphy.gif" width="100"/>
 </div>
 **<h2 align="center">I’m Mohammad</h2>**
-**<h3 align="center">I’m Mohammad, a passionate Computer Science student at Hakim Sabzevari University, with a strong focus on Backend, linux and Artificial Intelligence. 🚀</h3>**
+**<h3 align="center">A passionate Computer Science student at Hakim Sabzevari University, with a strong focus on Backend, linux and Artificial Intelligence. 🚀</h3>**
 
 
 **<h3 align="center">How To Reach Me</h3>**
