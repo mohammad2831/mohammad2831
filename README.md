@@ -39,7 +39,7 @@ Focusing on optimizing performance and ensuring system reliability in production
 
 I'm proficient in the following technologies:
 
-#### Programming Languages:
+#### <h2 align="center">Programming Languages</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js" /><br>
@@ -47,16 +47,18 @@ I'm proficient in the following technologies:
 <p align="center">
   <strong>Python • C++ • HTML • CSS • JavaScript</strong>
 </p>
-
-#### <h2 align="center">Frameworks & Libraries:</h2>
+<p></p>
+<p></p>
+#### <h2 align="center">Frameworks & Libraries</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,drf,flask,selenium,fastapi" /><br>
 </p><p align="center">
   <strong>Django • Django REST Framework (DRF) • Flask • Beautiful Soup • Web Scraping • Web Socket (Python Channels) • FastAPI</strong>
 </p>
-
-#### Artificial Intelligence & Data Science:
+<p></p>
+<p></p>
+#### <h2 align="center">Artificial Intelligence & Data Science</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" /><br>
@@ -65,8 +67,9 @@ I'm proficient in the following technologies:
 <p align="center">
   <strong>Machine Learning • Deep Learning (Neural Networks) • Natural Language Processing (NLP) • PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas • Matplotlib • Seaborn</strong>
 </p>
-
-#### <h2 align="center">Databases:</h2>
+<p><\p>
+<p></p>
+#### <h2 align="center">Databases</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,redis,postgresql" /><br>
@@ -74,8 +77,9 @@ I'm proficient in the following technologies:
 <p align="center">
   <strong>MySQL • Redis • PostgreSQL</strong>
 </p>
-
-#### <h2 align="center">Tools & Platforms:</h2>
+<p></p>
+<p></p>
+#### <h2 align="center">Tools & Platforms</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vscode" /><br>
@@ -83,7 +87,8 @@ I'm proficient in the following technologies:
 <p align="center">
   <strong>Linux • Docker • Nginx • Git • GitHub • VS Code</strong>
 </p>
-
+<p></p>
+<p></p>
 #### Other Key Skills:
 
 * **RESTful API Design & Development**
