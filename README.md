@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://git.io/typing-svg" target="_blank"  >
+    <img alt="Typing SVG" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czZiNGF0aDk0ZW43eTFnYTdudW5kZzFtbm9meTAxMWRjbnR0ZjVqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zgduo4kWRRDVK/giphy.gif"/>
+  </a>
+</div>
 **<h2 align="center">I’m Mohammad</h2>**
 **<h3 align="center">A passionate Computer Science student at Hakim Sabzevari University, with a strong focus on Backend, linux and Artificial Intelligence. 🚀</h3>**
 
