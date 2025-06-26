@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank"  >
-    <img alt="Typing SVG" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czZiNGF0aDk0ZW43eTFnYTdudW5kZzFtbm9meTAxMWRjbnR0ZjVqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zgduo4kWRRDVK/giphy.gif"/>
+    <img alt="Typing SVG" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N0cHM0eHRia2Q1ZWFiYWJuOTlidHd5ZzVtZG1qOW9ncnFhNGVtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif"/>
   </a>
 </div>
 **<h2 align="center">I’m Mohammad</h2>**
